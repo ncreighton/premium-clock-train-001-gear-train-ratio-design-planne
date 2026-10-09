@@ -1,0 +1,2 @@
+# premium-clock-train-001-gear-train-ratio-design-planne
+Tired of trial-and-error gear calculations for your clock mechanisms? Stop guessing and start designing with precision using the Gear Train Ratio Design Planner.  This Notion template eliminates the manual math and guesswork from clock gear train design, providing instant, accurate ratio calculations. It's the only planner that integrates ratio des
